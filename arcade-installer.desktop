@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Arcade Installer
+GenericName=Installer
+Comment=Install software packages without terminal
+Exec=arcade-installer %f
+Icon=arcade-installer
+Terminal=false
+Categories=Utility;System;
+MimeType=application/x-tar;application/gzip;application/x-compressed-tar;application/x-gtar;application/zip;
+StartupNotify=true

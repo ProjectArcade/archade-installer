@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Arcade Installer launcher (stable & absolute)
+
+APP_DIR="/opt/arcade-installer"
+exec python3 "$APP_DIR/src/arcade_installer.py" "$@"
